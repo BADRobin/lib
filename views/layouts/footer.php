@@ -9,7 +9,7 @@
         <p>&copy; 2020 Oleg Bryl &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
     </footer>
 </div>
-
+<!--+=+=+=+=-->
 
 <script src="/template/js/jquery-3.1.1.min.js"></script>
 <script src="/template/js/bootstrap.min.js"></script>
