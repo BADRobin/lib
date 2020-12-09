@@ -9,9 +9,7 @@
     </footer>
 </div>
 
-<!-- Bootstrap core JavaScript
-================================================== -->
-<!-- Placed at the end of the document so the pages load faster -->
+
 <script src="/template/js/jquery-3.1.1.min.js"></script>
 <script src="/template/js/bootstrap.min.js"></script>
 <script src="/template/js/price-range.js"></script>
