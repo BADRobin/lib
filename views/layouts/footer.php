@@ -1,3 +1,5 @@
+<html>
+<body>
 <link href="/template/css/main.css" rel="stylesheet">
 
 <div class="container" id="footer">

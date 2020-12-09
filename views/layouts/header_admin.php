@@ -10,10 +10,7 @@
         <link href="/template/css/font-awesome.min.css" rel="stylesheet">
         <link href="/template/css/price-range.css" rel="stylesheet">
         <link href="/template/css/main.css" rel="stylesheet">
-
-
         <script src="/template/js/html5shiv.js"></script>
-
     </head>
 
     <body>
@@ -44,3 +41,4 @@
             </header>
         </div>
     </body>
+</html>
